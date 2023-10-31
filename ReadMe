@@ -1,7 +1,5 @@
-This is a small guide on studying the source code of nopCPU and understanding
-what it does. 'Tis the only piece of documentation I can afford the time to
-write at the moment, so you'll have to bear with it 'til I find the time to
-write some proper documentation:
+This is a small guide on studying the source code of 8 Bit CPU and understanding
+what it does.
 
 --1. Files----------------------------------------------------------------------
 
